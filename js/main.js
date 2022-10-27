@@ -19,3 +19,7 @@ function manipulaDados(operacao, controle){
 
 }
 
+
+//<<<<<<<<<ATENÇÃO>>>>>>>>>
+// FAÇA O DESAFIO PROPOSTO NA AULA
+//https://cursos.alura.com.br/course/javascript-manipulando-dom/task/106409
